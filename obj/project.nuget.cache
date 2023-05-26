@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "48/EOuXpCtQaTt2rARyHqKw6aMgP5A0zboLTvO6LmoH5uIkFKkQd20Xz+U2cI0zX4qkM9/JhZa0ihQJ98K3hxg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\David CTI\\source\\repos\\PowerApps-IFrame-Control\\IFrameControl.pcfproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\David CTI\\.nuget\\packages\\microsoft.powerapps.msbuild.pcf\\1.22.4\\microsoft.powerapps.msbuild.pcf.1.22.4.nupkg.sha512"
+  ],
+  "logs": []
+}

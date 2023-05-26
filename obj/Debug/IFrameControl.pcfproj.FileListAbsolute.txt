@@ -1,0 +1,2 @@
+C:\Users\David CTI\source\repos\PowerApps-IFrame-Control\obj\Debug\IFrameControl.pcfproj.AssemblyReference.cache
+C:\Users\David CTI\source\repos\PowerApps-IFrame-Control\obj\Debug\IFrameControl.pcfproj.CoreCompileInputs.cache
